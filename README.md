@@ -1,14 +1,126 @@
-# 💫 About Me:
-Hi, I’m Aditya Banisetti!<br>ECE Undergrad & Aspiring VLSI Engineer.<br>🚀 Turning logic into silicon.<br>Currently in my 3rd year, focusing entirely on digital logic design, RTL coding, and computer architecture. Passionate about microelectronics, hardware optimization, and building the technology that powers tomorrow.<br>Let's connect over anything related to semiconductors or digital design!<br>
+<h1 align="center">Hi 👋, I'm Aditya Banisetti</h1>
+<h3 align="center">Electronics & Communication Engineering Student | Aspiring VLSI RTL Design Engineer</h3>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mr.aditya14_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-banisetti-456ab6330/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityabanisetti14@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
+<p align="center">
+Passionate about Digital Electronics, RTL Design, Computer Architecture, and Semiconductor Technologies.
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=adityabanisetti&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🚀 About Me
+
+- 🎓 B.Tech in **Electronics and Communication Engineering**
+- 💡 Passionate about **VLSI Design**, **Digital Electronics**, and **RTL Development**
+- 💻 Strong foundation in **Verilog**, **SystemVerilog**, and Digital Logic Design
+- ⚡ Experienced in developing synthesizable RTL and functional verification
+- 🎯 Career Goal: To become an RTL Design Engineer and contribute to next-generation semiconductor technologies.
+
+---
+
+## 🛠️ Technical Skills
+
+### Hardware
+- Digital Electronics
+- RTL Design
+- VLSI Design
+- Verilog HDL
+- SystemVerilog
+- FPGA Design Basics
+
+### Programming
+- C
+- Python
+- Java
+- Data Structures using C
+
+### Tools
+- Vivado
+- MATLAB
+- Scilab
+- Arduino IDE
+
+---
+
+## 💼 Experience
+
+### VLSI RTL Design Intern
+**Technical HUB Pvt. Ltd.**  
+📅 May 2026 – June 2026
+
+- Designed synthesizable RTL modules using Verilog.
+- Developed testbenches for functional verification.
+- Performed simulation using Vivado.
+- Worked on timing analysis, debugging, and RTL optimization.
+- Learned industry-standard ASIC/FPGA design methodology.
+
+---
+
+## 🚀 Projects
+
+### 📍 Campus Path Tracker
+- AI-powered semi-offline campus navigation system.
+- Uses decentralized Wi-Fi connectivity.
+- Supports emergency rescue alerts in no-network zones.
+- Built using Flutter.
+
+---
+
+### 🤖 AI Career Guidance System
+- Developed an AI-powered career recommendation platform.
+- Suggests personalized career paths based on users' skills and interests.
+- Helps students make informed career decisions.
+
+---
+
+## 🏆 Achievements
+
+🥇 Selected for the **Project Screening Round** of **Smart India Hackathon (SIH) 2025**.
+
+---
+
+## 📜 Certifications
+
+- Digital IC Design Fundamentals – Cadence
+- Semiconductor 101 – Cadence
+- Verilog Language and Application – Cadence
+- VLSI SoC Design using Verilog HDL – Maven Silicon
+- Digital Electronics and Logic Design – Coursera
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=adityabanisetti&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=adityabanisetti&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityabanisetti&theme=tokyonight&hide_border=false&layout=compact)
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/aditya-banisetti-456ab6330" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:adityabanisetti14@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/adityabanisetti">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+
+### 💡 "Turning Digital Logic into Silicon."
+
+</p>
+
+![](https://komarev.com/ghpvc/?username=adityabanisetti&label=Profile%20Views&color=0e75b6&style=flat)
 
